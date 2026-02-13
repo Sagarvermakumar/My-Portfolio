@@ -161,9 +161,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📞 Contact
 
-- **Email**: alex.johnson@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: sksagarkumarverma@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/sagar-kumar-479a92219/
 
 ---
 
