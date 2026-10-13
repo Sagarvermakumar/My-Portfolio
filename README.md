@@ -1,6 +1,6 @@
-# MERN Stack Developer Portfolio
+# Sagar Kumar - Full-Stack MERN & Next.js Developer Portfolio
 
-A modern, interactive, and responsive personal portfolio website built with React, Chakra UI, and Framer Motion. Features a glassmorphism-inspired design with smooth animations and a comprehensive showcase of skills and projects.
+A modern, interactive, and responsive personal portfolio website built with **Next.js 14**, **Tailwind CSS**, **Framer Motion**, and **Three.js**. Features a glassmorphism-inspired design with smooth animations and a comprehensive showcase of skills and projects.
 
 ## ✨ Features
 
@@ -9,28 +9,29 @@ A modern, interactive, and responsive personal portfolio website built with Reac
 - **Responsive Layout**: Optimized for all device sizes
 - **Dark/Light Mode**: Toggle between themes with smooth transitions
 - **Custom Theme**: Primary color scheme with #ff0080 accent
-- **Modern Typography**: Clean and readable fonts
+- **Interactive 3D Elements**: Three.js Earth and Stars background canvas with dynamic SSR-safe rendering
+- **CV / Resume Download**: One-click resume download for recruiters
 
 ### 🚀 Animations & Interactions
 - **Framer Motion**: Smooth page transitions and element animations
 - **Scroll-triggered Animations**: Elements animate as they come into view
 - **Hover Effects**: Interactive cards with tilt and scale animations
-- **Smooth Scrolling**: Seamless navigation between sections
+- **Cross-page Navigation**: Seamless navigation between sections and dedicated sub-pages (`/projects`)
 - **Floating Scroll Indicator**: Interactive navigation helper
 
 ### 📱 Sections
-1. **Hero Section**: Animated background with SVG elements and developer introduction
+1. **Hero Section**: Animated 3D background with interactive Earth canvas and intro
 2. **About Section**: Personal journey, skills overview, and experience timeline
-3. **Skills Section**: Comprehensive technology stack with proficiency levels
-4. **Projects Section**: Portfolio showcase with detailed project modals
-5. **Contact Section**: Interactive contact form with validation
+3. **Skills Section**: Comprehensive technology stack categorized with interactive cards
+4. **Projects Section**: Portfolio showcase with detailed multi-page breakdown
+5. **Contact Section**: Interactive contact form with status feedback and direct mail delivery
 
 ### 🛠 Technologies Used
-- **React 18**: Modern React with hooks and functional components
-- **Chakra UI**: Component library with custom theme
+- **Next.js 14**: Modern App Router architecture
+- **React 18 & TypeScript**: Robust, type-safe frontend
+- **Tailwind CSS & Shadcn UI**: Clean and flexible utility styles
+- **Three.js & React Three Fiber**: 3D interactive graphics
 - **Framer Motion**: Animation library for smooth transitions
-- **React Scroll**: Smooth scrolling navigation
-- **React Icons**: Comprehensive icon library
 
 ## 🚀 Getting Started
 
@@ -159,10 +160,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📞 Contact
-
-- **Email**: sksagarkumarverma@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/sagar-kumar-479a92219/
+- **Email**: [sksagarkumarverma@gmail.com](mailto:sksagarkumarverma@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/sagar-kumar-479a92219/](https://www.linkedin.com/in/sagar-kumar-479a92219/)
+- **GitHub**: [https://github.com/Sagarvermakumar](https://github.com/Sagarvermakumar)
+- **Phone / WhatsApp**: [+91 8434131226](https://wa.me/918434131226)
 
 ---
 

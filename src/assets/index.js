@@ -1,4 +1,4 @@
-import theDev from './images/dev.jpg'
+import theDev from './images/DEV.png'
 
 export const containerVariants = {
     hidden: { opacity: 0 },

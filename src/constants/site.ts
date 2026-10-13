@@ -1,0 +1,38 @@
+export const siteConfig = {
+    name: "Sagar Verma",
+    title: "Sagar Verma | Full Stack & MERN Stack Developer",
+    description:
+        "Portfolio of Sagar Verma, a Full Stack MERN Developer specializing in Next.js, React, Node.js, Express, PostgreSQL, Prisma, and MongoDB. Explore production-grade projects like URMS, WhatsApp CRM Suite, and NewsDesk CMS.",
+    url: process.env.NEXT_PUBLIC_SITE_URL || "https://dev-sagar.vercel.app",
+    ogImage: "/profile.png",
+    links: {
+        github: "https://github.com/Sagarvermakumar",
+        linkedin: "https://www.linkedin.com/in/sagar-kumar-479a92219/",
+        email: "mailto:sksagarkumarverma@gmail.com",
+        whatsapp: "https://wa.me/918434131226",
+    },
+    author: {
+        name: "Sagar Verma",
+        email: "sksagarkumarverma@gmail.com",
+        phone: "+918434131226",
+        role: "Full Stack Developer",
+        addressLocality: "India",
+    },
+    keywords: [
+        "Sagar Verma",
+        "MERN Stack Developer",
+        "Full Stack Developer",
+        "Next.js Developer India",
+        "React Developer",
+        "Node.js Backend Developer",
+        "PostgreSQL Prisma Developer",
+        "TypeScript Developer",
+        "Freelance Web Developer",
+        "URMS University Result Management System",
+        "WhatsApp Automation CRM",
+        "NewsDesk CMS",
+        "Full Stack Portfolio",
+        "REST API Developer",
+        "Web Application Architect",
+    ],
+};
